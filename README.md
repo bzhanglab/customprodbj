@@ -1,5 +1,7 @@
 # Customized protein database construction
 
+![Downloads](https://img.shields.io/github/downloads/bingzhang16/customprodbj/total.svg)
+
 ## Introduction
 
 Customprodbj is a Java-based tool for customized protein database construction:
@@ -9,6 +11,8 @@ Customprodbj is a Java-based tool for customized protein database construction:
   - Build a customized database based on multiple VCF files from multiple samples.
 
 ## Usage
+
+Please download Customprodbj program from the release page: https://github.com/bingzhang16/customprodbj/releases
 
 java -jar customprodbj.jar 
 ```
